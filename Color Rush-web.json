@@ -1,0 +1,13 @@
+{
+"companyName": "Khaoscraft",
+"productName": "Color Rush",
+"dataUrl": "Color Rush-web.data.unityweb",
+"asmCodeUrl": "Color Rush-web.asm.code.unityweb",
+"asmMemoryUrl": "Color Rush-web.asm.memory.unityweb",
+"asmFrameworkUrl": "Color Rush-web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
